@@ -2,6 +2,16 @@
 
 A delightful tool generator that turns simple schemas into production-ready AI function calling tools with love and care.
 
+## Demo & Usage
+
+![LuvlToolGen Demo](demo/usage-demo.gif)
+
+or for more control over size:
+
+<p align="center">
+  <img src="demo/usage-demo.gif" alt="LuvlToolGen Demo" width="800"/>
+</p>
+
 ## Features
 
 - 🎯 Natural language to JSON schema conversion

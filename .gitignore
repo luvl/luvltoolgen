@@ -51,3 +51,7 @@ logs/*
 !logs/.gitkeep
 *.log
 *.log.*
+
+# Media and Demo files
+demo/*
+!demo/usage-demo.gif
